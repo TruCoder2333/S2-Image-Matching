@@ -19,4 +19,3 @@ model weigths -  https://dusmanu.com/files/d2-net/d2_ots.pth -O models/d2_ots.pt
                  https://dusmanu.com/files/d2-net/d2_tf.pth -O models/d2_tf.pth
                 https://dusmanu.com/files/d2-net/d2_tf_no_phototourism.pth -O models/d2_tf_no_phototourism.pth
 data - https://drive.google.com/drive/folders/18TxCYbi-Kgn9n58--glb112-Ncpbj1yB?usp=sharing
-it's unfortunate that I did not have time to really fine tune it, but again I have my take on hope tp improve it and would like to do it or talk about it if you let me at Quantum)
